@@ -1,4 +1,4 @@
-📈 Time Series Regression: Trend + Seasonality
+**📈 Time Series Regression: Trend + Seasonality**
 
 This project explores how to adapt regression models for time series forecasting by capturing both trend and seasonality in retail sales data. Along the way, I performed Exploratory Data Analysis (EDA) to understand the underlying sales dynamics.
 
@@ -7,53 +7,72 @@ The dataset comes from the 🛒 Store Sales – Time Series Forecasting competit
 
 🎯 Objectives
 
-Perform EDA to uncover sales patterns, seasonal effects, and holiday impacts.
+Perform EDA to uncover sales patterns, seasonal effects, and holiday impacts
 
-Extend regression to handle time-dependent patterns.
+Extend regression to handle time-dependent patterns
 
-Capture trend using polynomial features on a time index.
+Capture trend using polynomial features on a time index
 
-Model seasonality with month, day-of-week, and holiday indicators.
+Model seasonality with month, day-of-week, and holiday indicators
 
-Compare extended regression vs. a baseline linear regression.
+Compare extended regression vs. a baseline linear regression
 
 🔍 Exploratory Data Analysis (EDA)
+Data Checks
 
-✔️ Checked missing values & data quality.
-✔️ Visualized daily, weekly, and monthly sales trends.
-✔️ Analyzed promotions and holidays and their effect on sales.
-✔️ Compared sales across stores and product families.
+Verified missing values and overall data quality
 
-🛠 Features for Modeling
+Ensured correct data types for time-series analysis
 
-Trend Features → Linear + Polynomial time index
+Visual Insights
 
-Seasonality Features → Month, Day-of-Week, Holidays
+Sales trends across days, weeks, and months
 
-Holiday Effects → Integrated from external holiday dataset
+Effects of promotions and holidays
 
-Lag Features → Past sales values & rolling averages
+Variations across stores and product families
 
-Visualization → Actual vs. Predicted sales (aggregated monthly)
+🛠 Feature Engineering
+Trend
+
+Linear time index
+
+Polynomial transformations
+
+Seasonality
+
+Month indicators
+
+Day-of-week indicators
+
+Holiday flags
+
+Other Features
+
+Lag features (past 7 & 30 days)
+
+Rolling averages
+
+On-promotion counts
 
 📊 Tech Stack
 
-🐍 Python
+Python 🐍
 
-🐼 Pandas
+Pandas 🐼
 
-📘 Scikit-learn
+Scikit-learn 🤖
 
-📉 Matplotlib
+Matplotlib 📉
 
 🚀 Learning Outcomes
 
-Applied EDA techniques for time series.
+Applied EDA to reveal time-dependent patterns
 
-Learned how to engineer time-aware features.
+Learned to engineer features specific to time series
 
-Understood differences between trend and seasonality.
+Understood trend vs. seasonality in forecasting
 
-Compared baseline vs. enhanced regression models.
+Compared baseline vs. enhanced regression models
 
-Strengthened skills in time series forecasting & visualization.
+Improved skills in visualization and feature design
