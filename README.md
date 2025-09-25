@@ -6,7 +6,7 @@ The dataset comes from the 🛒 Store Sales – [Time Series Forecasting competi
 .
 
 
-**🎯 Objectives**
+#**🎯 Objectives**
 
 Perform EDA to uncover sales patterns, seasonal effects, and holiday impacts.
 
@@ -19,7 +19,7 @@ Model seasonality with month, day-of-week, and holiday indicators.
 Compare extended regression vs. a baseline linear regression.
 
 
-**🛠 Features for Modeling**
+#**🛠 Features for Modeling**
 
 Trend Features → Linear + Polynomial time index
 
@@ -32,7 +32,7 @@ Lag Features → Past sales values & rolling averages
 Visualization → Actual vs. Predicted sales (aggregated monthly)
 
 
-📊 Tech Stack
+#📊 Tech Stack
 
 🐍 Python
 
@@ -43,7 +43,7 @@ Visualization → Actual vs. Predicted sales (aggregated monthly)
 📉 Matplotlib
 
 
-**🚀 Learning Outcomes**
+#**🚀 Learning Outcomes**
 
 Applied EDA techniques for time series.
 
