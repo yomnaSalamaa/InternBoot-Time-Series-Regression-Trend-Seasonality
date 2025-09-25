@@ -17,12 +17,6 @@ Model seasonality with month, day-of-week, and holiday indicators.
 
 Compare extended regression vs. a baseline linear regression.
 
-**🔍 Exploratory Data Analysis (EDA)**
-
-✔️ Checked missing values & data quality.
-✔️ Visualized daily, weekly, and monthly sales trends.
-✔️ Analyzed promotions and holidays and their effect on sales.
-✔️ Compared sales across stores and product families.
 
 **🛠 Features for Modeling**
 
@@ -46,7 +40,7 @@ Visualization → Actual vs. Predicted sales (aggregated monthly)
 
 📉 Matplotlib
 
-🚀 Learning Outcomes
+**🚀 Learning Outcomes**
 
 Applied EDA techniques for time series.
 
