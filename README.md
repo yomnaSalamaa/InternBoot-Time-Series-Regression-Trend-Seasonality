@@ -5,6 +5,7 @@ This project explores how to adapt regression models for time series forecasting
 The dataset comes from the 🛒 Store Sales – Time Series Forecasting competition
 .
 
+
 **🎯 Objectives**
 
 Perform EDA to uncover sales patterns, seasonal effects, and holiday impacts.
@@ -30,6 +31,7 @@ Lag Features → Past sales values & rolling averages
 
 Visualization → Actual vs. Predicted sales (aggregated monthly)
 
+
 📊 Tech Stack
 
 🐍 Python
@@ -39,6 +41,7 @@ Visualization → Actual vs. Predicted sales (aggregated monthly)
 📘 Scikit-learn
 
 📉 Matplotlib
+
 
 **🚀 Learning Outcomes**
 
