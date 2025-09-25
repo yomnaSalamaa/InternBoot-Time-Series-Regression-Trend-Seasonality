@@ -2,7 +2,7 @@
 
 This project explores how to adapt regression models for time series forecasting by capturing both trend and seasonality in retail sales data. Along the way, I performed Exploratory Data Analysis (EDA) to understand the underlying sales dynamics.
 
-The dataset comes from the 🛒 Store Sales – Time Series Forecasting competition
+The dataset comes from the 🛒 Store Sales – [Time Series Forecasting competition](https://www.kaggle.com/competitions/store-sales-time-seriesforecasting)
 .
 
 
