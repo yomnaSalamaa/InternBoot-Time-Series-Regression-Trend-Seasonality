@@ -5,6 +5,7 @@ This project explores how to adapt regression models for time series forecasting
 The dataset comes from the 🛒 Store Sales – Time Series Forecasting competition
 .
 
+
 🎯 Objectives
 
 Perform EDA to uncover sales patterns, seasonal effects, and holiday impacts
@@ -17,7 +18,9 @@ Model seasonality with month, day-of-week, and holiday indicators
 
 Compare extended regression vs. a baseline linear regression
 
+
 🔍 Exploratory Data Analysis (EDA)
+
 Data Checks
 
 Verified missing values and overall data quality
@@ -32,7 +35,9 @@ Effects of promotions and holidays
 
 Variations across stores and product families
 
+
 🛠 Feature Engineering
+
 Trend
 
 Linear time index
@@ -47,13 +52,8 @@ Day-of-week indicators
 
 Holiday flags
 
-Other Features
 
-Lag features (past 7 & 30 days)
 
-Rolling averages
-
-On-promotion counts
 
 📊 Tech Stack
 
@@ -65,7 +65,9 @@ Scikit-learn 🤖
 
 Matplotlib 📉
 
+
 🚀 Learning Outcomes
+
 
 Applied EDA to reveal time-dependent patterns
 
