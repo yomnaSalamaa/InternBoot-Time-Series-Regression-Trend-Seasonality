@@ -1,4 +1,4 @@
-***📈 Time Series Regression: Trend + Seasonality***
+## ***📈 Time Series Regression: Trend + Seasonality***
 
 This project explores how to adapt regression models for time series forecasting by capturing both trend and seasonality in retail sales data. Along the way, I performed Exploratory Data Analysis (EDA) to understand the underlying sales dynamics.
 
